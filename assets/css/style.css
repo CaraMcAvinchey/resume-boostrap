@@ -408,6 +408,6 @@ div#map {
     }
 }
 
-div#map {
+div #map {
     min-height: 360px;
 }
